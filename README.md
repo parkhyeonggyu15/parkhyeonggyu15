@@ -36,7 +36,6 @@
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <!-- 배경을 투명하게(bg_color=00000000) 수정하고 불필요한 쉼표를 제거했습니다 -->
-    <img src="https://github-readme-stats.vercel.app/api?username=parkhyeonggyu15&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyeonggyu15&layout=compact&title_color=000000&text_color=000000&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=parkhyeonggyu15&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=00000000&cache_seconds=3600" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyeonggyu15&layout=compact&title_color=000000&text_color=000000&bg_color=00000000&cache_seconds=3600" />
 </div>
