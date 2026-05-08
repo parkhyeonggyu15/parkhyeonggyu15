@@ -36,8 +36,9 @@
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <!-- 메인 스탯: 미러 서버 주소 사용 -->
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=parkhyeonggyu15&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=00000000" />
-    <!-- 언어 스탯: 미러 서버 주소 사용 -->
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=parkhyeonggyu15&layout=compact&title_color=000000&text_color=000000&bg_color=00000000" />
+   <!-- GitHub Readme Stats 대신 사용할 수 있는 다른 안정적인 서비스 (Goyunhe) -->
+<img src="https://github-readme-stats.vercel.app/api?username=parkhyeonggyu15&show_icons=true&theme=radical" />
+
+<!-- 혹은 완전히 다른 방식의 통계 카드 (Metrics) -->
+<img src="https://metrics.lecoq.io/parkhyeonggyu15?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=1&base.metadata=0" />
 </div>
