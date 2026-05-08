@@ -36,6 +36,8 @@
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=parkhyeonggyu15&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=00000000&cache_seconds=3600" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyeonggyu15&layout=compact&title_color=000000&text_color=000000&bg_color=00000000&cache_seconds=3600" />
+    <!-- 메인 스탯: 미러 서버 주소 사용 -->
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=parkhyeonggyu15&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=00000000" />
+    <!-- 언어 스탯: 미러 서버 주소 사용 -->
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=parkhyeonggyu15&layout=compact&title_color=000000&text_color=000000&bg_color=00000000" />
 </div>
