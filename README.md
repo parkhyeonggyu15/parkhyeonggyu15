@@ -4,7 +4,6 @@
 
 <div align="center">
     <h2> 👋 About Me </h2>
-    <hr>
     <br>
     <p>
         안녕하세요! 새로운 기술을 배우고 적용하는 것을 즐기는 개발자 박형규입니다.<br>
@@ -19,7 +18,6 @@
 
 <div align="center">
     <h2> 🛠️ Tech Stacks </h2>
-    <hr>
     <br>
     <h3>Frontend</h3>
     <div align="center">
@@ -53,7 +51,6 @@
 
 <div align="center">
     <h2> 🎓 Education </h2>
-    <hr>
     <br>
     <a href="https://www.notion.so/51b7cc1d1c37824292978109428d8a69"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> </a>
     <br>
@@ -61,7 +58,6 @@
 
 <div align="center">
     <h2> 📊 Github Stats </h2>
-    <hr>
     <br>
     <img src="./profile/stats.svg" alt="parkhyeonggyu15's github stats" />
     <br>
@@ -69,7 +65,6 @@
 
 <div align="center">
     <h2> 🧑‍💻 Contact me </h2>
-    <hr>
     <br>
     <div>
         <a href="https://www.instagram.com/p_hyounggyu/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
