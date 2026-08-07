@@ -59,7 +59,7 @@
 <div align="center">
     <h2> 📊 Github Stats </h2>
     <br>
-    <img src="./profile/stats.svg?v=1785995383" alt="parkhyeonggyu15's github stats" />
+    <img src="./profile/stats.svg?v=1786078530" alt="parkhyeonggyu15's github stats" />
     <br>
 </div>
 
